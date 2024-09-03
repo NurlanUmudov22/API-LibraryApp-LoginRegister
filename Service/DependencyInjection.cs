@@ -29,6 +29,7 @@ namespace Service
 
             services.AddScoped<IBookService, BookService>();
             services.AddScoped<IAuthorService, AuthorService>();
+            //services.AddScoped<IAuthorService, AuthorService>();
 
             services.AddScoped<IAccountService, AccountService>();
 

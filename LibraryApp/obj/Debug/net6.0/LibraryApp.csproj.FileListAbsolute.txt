@@ -93,3 +93,4 @@ C:\Users\ASUS\OneDrive\Рабочий стол\API\LibraryApp\LibraryApp\bin\Deb
 C:\Users\ASUS\OneDrive\Рабочий стол\API\LibraryApp\LibraryApp\bin\Debug\net6.0\Serilog.Sinks.File.dll
 C:\Users\ASUS\OneDrive\Рабочий стол\API\LibraryApp\LibraryApp\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\ASUS\OneDrive\Рабочий стол\API\LibraryApp\LibraryApp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\API\LibraryApp\LibraryApp\obj\Debug\net6.0\LibraryApp.sourcelink.json

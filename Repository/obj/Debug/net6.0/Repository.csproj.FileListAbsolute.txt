@@ -15,3 +15,4 @@ C:\Users\ASUS\OneDrive\Рабочий стол\API\LibraryApp\Repository\obj\Deb
 C:\Users\ASUS\OneDrive\Рабочий стол\API\LibraryApp\Repository\obj\Debug\net6.0\Repository.pdb
 C:\Users\ASUS\OneDrive\Рабочий стол\API\LibraryApp\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
 C:\Users\ASUS\OneDrive\Рабочий стол\API\LibraryApp\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\API\LibraryApp\Repository\obj\Debug\net6.0\Repository.sourcelink.json

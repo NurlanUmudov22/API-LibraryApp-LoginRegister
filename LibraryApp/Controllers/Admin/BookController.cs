@@ -8,7 +8,7 @@ namespace LibraryApp.Controllers.Admin
 {
 
 
-    [Authorize]
+    //[Authorize]
 
     public class BookController : BaseController
     {
